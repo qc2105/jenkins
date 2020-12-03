@@ -58,8 +58,9 @@ THE SOFTWARE.
 
   <dependencies>
     <dependency>
-      <groupId>${project.groupId}</groupId>
+      <groupId>com.qc</groupId>
       <artifactId>remoting</artifactId>
+      <version>4.7-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>${project.groupId}</groupId>
